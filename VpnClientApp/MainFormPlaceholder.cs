@@ -5,7 +5,8 @@ using System.IO;
 
 namespace VpnClientApp
 {
-    public class MainForm
+    // This class is no longer needed as we're using the Windows Forms MainForm
+    public class MainFormPlaceholder
     {
         public void Initialize()
         {
